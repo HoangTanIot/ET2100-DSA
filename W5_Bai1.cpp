@@ -1,3 +1,7 @@
+// Bài 1: Nhập vào n đối tượng có màu đỏ (red), trắng (white) và xanh (blue), sắp xếp theo trật tự như sau:
+// các đối tượng cùng màu nằm kế tiếp nhau và theo thứ tự đỏ, trắng, xanh.
+// Input {xanh, đỏ, xanh, đỏ, đỏ, trắng, đỏ, xanh, trắng}
+// Output {đỏ, đỏ, đỏ, đỏ, trắng, trắng, xanh, xanh, xanh}
 #include <iostream>
 #include <vector>
 #include <unordered_map>
