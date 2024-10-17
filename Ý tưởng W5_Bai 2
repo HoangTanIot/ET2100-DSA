@@ -1,0 +1,24 @@
+Ý tưởng tổng quát
+
+Số nửa nguyên tố (Blum) là số có dạng ( p \times q ), trong đó ( p ) và ( q ) là hai số nguyên tố khác nhau và cả hai đều thỏa mãn điều kiện ( p \equiv 3 \mod 4 ) và ( q \equiv 3 \mod 4 ). Bài toán yêu cầu chúng ta thực hiện hai nhiệm vụ chính:
+
+Tạo ra mảng số Blum nhỏ hơn một số N.
+Thực hiện hai yêu cầu cụ thể:
+Tìm tất cả các cặp số Blum có tổng cũng là số Blum nhỏ hơn N.
+Kiểm tra xem một số Blum M có tồn tại trong dãy số Blum hay không.
+Chi tiết từng bước
+
+Bước 1: Tạo mảng số Blum
+
+Tìm số nguyên tố: Đầu tiên, chúng ta cần tìm tất cả các số nguyên tố nhỏ hơn ( \sqrt{N} ). Điều này là vì số Blum được tạo ra từ tích của hai số nguyên tố, và để số này nhỏ hơn N, cả hai số nguyên tố phải nhỏ hơn ( \sqrt{N} ).
+Kiểm tra điều kiện: Trong quá trình tìm số nguyên tố, chúng ta chỉ chọn những số nguyên tố thỏa mãn điều kiện ( p \equiv 3 \mod 4 ).
+Tạo số Blum: Sau khi có danh sách các số nguyên tố, chúng ta sẽ tạo số Blum bằng cách nhân các cặp số nguyên tố khác nhau. Chúng ta cần đảm bảo rằng tích của hai số nguyên tố này nhỏ hơn N.
+Bước 2: Thực hiện yêu cầu
+
+Yêu cầu 1: Để tìm tất cả các cặp số Blum có tổng cũng là số Blum nhỏ hơn N:
+
+Duyệt qua tất cả các cặp số trong mảng Blum.
+Tính tổng của từng cặp và kiểm tra xem tổng đó có nằm trong mảng số Blum hay không.
+Yêu cầu 2: Để kiểm tra sự tồn tại của số Blum M:
+
+Duyệt qua mảng Blum và kiểm tra xem M có nằm trong mảng hay không. Phương pháp này có thể sử dụng hàm find từ thư viện chuẩn C++ để tăng hiệu quả.
