@@ -10,3 +10,4 @@ Lớp 152455
 
 ![image](https://github.com/user-attachments/assets/b53a712a-a1e2-4ec8-90c1-77cb3d76cc25)
 
+[500 bài code (có chọn lọc để đi thi)-2024.1.pdf](https://github.com/user-attachments/files/18458438/500.bai.code.co.ch.n.l.c.d.di.thi.-2024.1.pdf)
