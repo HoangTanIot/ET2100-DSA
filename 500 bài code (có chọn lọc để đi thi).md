@@ -9,7 +9,7 @@ Tài liệu được biên soạn tỉ mỉ, có đánh số trang và phân chi
 
 - **Danh mục bài tập**: Liệt kê các bài tập theo thứ tự, kèm theo số trang tương ứng.
 - **Nội dung chính**: Bao gồm lời giải chi tiết và giải thích cho từng bài tập, minh họa bằng mã nguồn rõ ràng và dễ hiểu.
-- **Phần kết luận**: Tóm tắt những điểm nổi bật và hướng dẫn tiếp tục học tập lập trình.
+
 
 Tài liệu được hoàn thành vào tháng 10 năm 2024 và chỉ bao gồm các phần, các bài toán mà cô đã dạy trong suốt quá trình học. Đặc biệt, phần thuật toán Kruskal đã được bổ sung ngay trước kỳ thi 3 ngày, vào ngày 3/1/2025. Mặc dù đã rất nỗ lực trong quá trình biên soạn, tài liệu này vẫn có thể tồn tại một số sai sót vì chưa được kiểm duyệt đầy đủ. Tôi rất mong nhận được ý kiến đóng góp từ các bạn để hoàn thiện hơn.
 
