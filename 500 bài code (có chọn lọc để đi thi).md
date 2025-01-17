@@ -11,7 +11,7 @@ Tài liệu được biên soạn tỉ mỉ, có đánh số trang và phân chi
 - **Nội dung chính**: Bao gồm lời giải chi tiết và giải thích cho từng bài tập, minh họa bằng mã nguồn rõ ràng và dễ hiểu.
 
 
-Tài liệu được hoàn thành vào tháng 10 năm 2024 và chỉ bao gồm các phần, các bài toán mà cô đã dạy trong suốt quá trình học. Đặc biệt, phần thuật toán Kruskal đã được bổ sung ngay trước kỳ thi 3 ngày, vào ngày 3/1/2025. Mặc dù đã rất nỗ lực trong quá trình biên soạn, tài liệu này vẫn có thể tồn tại một số sai sót vì chưa được kiểm duyệt đầy đủ. Tôi rất mong nhận được ý kiến đóng góp từ các bạn để hoàn thiện hơn.
+Tài liệu được hoàn thành vào tháng 11 năm 2024 và chỉ bao gồm các phần, các bài toán mà cô đã dạy trong suốt quá trình học. Đặc biệt, phần thuật toán Kruskal đã được bổ sung ngay trước kỳ thi 3 ngày, vào ngày 3/1/2025. Mặc dù đã rất nỗ lực trong quá trình biên soạn, tài liệu này vẫn có thể tồn tại một số sai sót vì chưa được kiểm duyệt đầy đủ. Tôi rất mong nhận được ý kiến đóng góp từ các bạn để hoàn thiện hơn.
 
 Mặc dù trong kỳ thi cuối kỳ tôi đã không làm bài một cách tốt nhất, nhưng tôi nhận ra rằng việc duy trì luyện tập hàng ngày là chìa khóa để cải thiện khả năng lập trình của mình. Môn học này thực sự là nền móng quan trọng, giúp tôi vững bước trên hành trình học tập và phát triển xa hơn trong lĩnh vực công nghệ thông tin. Tôi hy vọng rằng các bạn cũng sẽ kiên trì và không ngừng nỗ lực, vì chỉ cần chúng ta cố gắng mỗi ngày, thành công sẽ đến gần hơn.
 
